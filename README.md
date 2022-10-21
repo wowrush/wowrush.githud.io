@@ -1,4 +1,4 @@
-# wowrush.githud.io
+# wowrush.githud.io/
 I am wowrush!!!
 你好!!
  
